@@ -14,6 +14,7 @@ $(document).on("click", "#btn_registrar", function () {
     }
 
     alert("datos correctos");
+    
 })
 
 
